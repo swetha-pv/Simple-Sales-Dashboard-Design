@@ -1,0 +1,6 @@
+SALES DASHBOARD INSIGHTS
+
+1. West region had the highest total sales in Q3.
+2. Technology category outperformed Furniture and Office Supplies.
+3. December recorded the peak sales, likely due to year-end/holiday shopping.
+4. South region had consistent sales but lower compared to West and East.
